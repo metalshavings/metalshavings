@@ -1,0 +1,20 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Metal Shavings
+tagline:          CNC Blog
+description:      Redneck engineering, learning about cutting metal one broken tool at a time.
+url:              https://metalshavings.github.io
+baseurl:          /
+
+author:
+  name:           ‘Neal Clayton’
+  url:            
+
+# Custom vars
+version:          3.0.0
