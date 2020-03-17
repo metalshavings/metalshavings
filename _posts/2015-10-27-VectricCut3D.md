@@ -11,11 +11,11 @@ Never impulse-buy software, you will always be disappointed
 
 Unfortunately I made the above mistake recently with Vectric Cut3D after a frustrating bout with another CAM application that I was struggling with.  The Cut3D trial solved the particular problem I was having, so I bought it on a whim.  Bad move.
 
-Do not mistake the following guide/screenshots as any sort of intro or example.  This is *literally 'it'.*  There is no more to the following program than the following screenshots.  If you want to cut wooden reliefs of pictures that your grandkids put on Twitter I suppose this is all you'll ever need, but if you need to anything else, ever, it's not going to be sufficient.
+Do not mistake the following guide/screenshots as any sort of intro or example.  This is *literally all there is to it.*  There is no more to the following program than the following screenshots.  If you want to cut wooden reliefs of pictures that your grandkids put on Facebook I suppose this is all you'll ever need, but if you need to anything else, it's not going to be sufficient.
 
-The software is effectively a bait to get you to buy their more expensive software after you find that the one you bought can't do some basic thing you need.  Only difference in the bait/fish/fisherman dynamic is not only are you buying the bait in this example, but you're also the fish.
+The software is effectively a bait to get you to buy their more expensive software after you find that the one you bought can't do some basic thing you need.  
 
-Here's our doorpull again, flipped upside down to do the simplest side first.  Pretty standard fare for the beginning of a part cutting wizard.  Define the top, units of measurement, scale, etc.
+Here's our doorpull again, flipped upside down to do the simple side first.  Pretty standard fare for the beginning of a part cutting wizard.  Define the top, units of measurement, scale, etc.
 
 ![Step 1]({{ site.url }}/public/cut3d01.png)
 
@@ -39,7 +39,7 @@ But lets not uninstall just yet.  Maybe there's a way to overcome this with the 
 
 ![Step 6]({{ site.url }}/public/cut3d06.png)
 
-Nope...we get the same choices as the roughing toolpath, a raster with the option for a 45 or 135 angle.  *That's it.*  So here's what that toolpath will look like, again lots of time and for little/no benefit on this sort of part.
+Nope... we get the same choices as the roughing toolpath, a raster with the option for a 45 or 135 angle, *that's it.*  So here's what that toolpath will look like, again lots of time and for little/no benefit on this sort of part.
 
 ![Step 7]({{ site.url }}/public/cut3d07.png)
 
@@ -49,4 +49,4 @@ There is a 'cutout toolpath' option, but as you can see here it's limited to the
 
 In short, don't impulse buy software, you will be disappointed.
 
-[I'm not the only one](http://forum.vectric.com/viewtopic.php?f=12&t=19529) finding this stuff out, apparently.  The short answer is anything that costs less than Aspire from Vectric is going to be veeerrrrry limited, and will effectively accomplish nothing but leading you toward paying the 2 grand they want for Aspire.
+[I'm not the only one](http://forum.vectric.com/viewtopic.php?f=12&t=19529) finding this stuff out, apparently.  The short answer is anything that costs less than Aspire from Vectric is going to be very limited, and will effectively accomplish nothing but leading you toward paying the 2 grand they want for Aspire.

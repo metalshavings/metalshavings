@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Busted Couplings...
-comments: true
 tag: Sieg KX3
 ---
 
@@ -20,7 +19,7 @@ And here's a picture of my X axis coupling...
 
 ![Drive Coupling]({{ site.url }}/public/coupling.png)
 
-No wonder I'm off a few thousandths.  I've only been cutting square parts without critical dimensions so the problem here wasn't immediately noticeable.  As long as your movement involves an even number of axis direction reversals, your parts will 'look' fine for lack of a better word, but micrometers have a way of revealing the truth about them.  On my ~5 inch long part I was losing 4 thousandths on the X, and a whopping 50 thousandths across 2 inches on the Y.  I suspect the Y axis, with its thud, will have two of the sacrificial teeth broken rather than just the one as you can see here on the X coupling.
+No wonder I'm off a few thousandths.  I've only been cutting square parts without critical dimensions so the problem here wasn't immediately noticeable.  As long as your movement involves an even number of axis direction reversals, your parts will 'look' fine for lack of a better word, but micrometers have a way of revealing the truth.  On my ~5 inch long part I was losing 4 thousandths on the X, and a whopping 50 thousandths across 2 inches on the Y.  I suspect the Y axis, with its thud, will have two of the sacrificial teeth broken rather than just the one as you can see here on the X coupling.
 
 Since I need two there's no reason in only ordering that many, I went ahead and ordered replacements for all three shafts/motors.  
 
