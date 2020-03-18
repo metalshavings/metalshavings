@@ -7,13 +7,13 @@ permalink:        pretty
 
 # Setup
 title:            Metal Shavings
-tagline:          CNC Blog
-description:      Redneck engineering, learning about cutting metal one broken tool at a time.
+tagline:          Blog
+description:      This was a personal blog about my CNC hobby in 2015, and now includes writing samples as well.
 url:              https://metalshavings.github.io
 baseurl:          /
 
 author:
-  name:           ‘Neal Clayton’
+  name:           ‘Robert Neal Clayton’
   url:            
 
 # Custom vars

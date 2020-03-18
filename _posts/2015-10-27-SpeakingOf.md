@@ -1,8 +1,7 @@
 ---
 layout: post
 title: On Heeks (and DolphinCAD)
-comments: true
-tags: CAD-CAM
+tags: Blog
 ---
 
 <p class="message">

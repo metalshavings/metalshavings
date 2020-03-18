@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Busted Couplings...
-tag: Sieg KX3
+tags: Blog
 ---
 
 <p class="message">

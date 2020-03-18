@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Vectric Cut3D
-comments: true
-tags: CAD-CAM
+tags: Blog
 ---
 
 <p class="message">
