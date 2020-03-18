@@ -4,40 +4,24 @@ title: Non Profit Volunteer Email
 tags: Email
 ---
 
-Received: from a8-18.smtp-out.amazonses.com (a8-18.smtp-out.amazonses.com. [54.240.8.18])
-        by mx.google.com with ESMTPS id q38-v6si3781397qvf.192.2018.10.16.20.00.00
-        for <opairdrop@gmail.com>
-        (version=TLS1_2 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
-        Tue, 16 Oct 2018 20:00:00 -0700 (PDT)
-Received-SPF: pass (google.com: domain of 010001667ff73875-8edab58f-a807-497b-abb7-1ce775e5c1f7-000000@amazonses.com designates 54.240.8.18 as permitted sender) client-ip=54.240.8.18;
-Authentication-Results: mx.google.com;
-       dkim=pass header.i=@operation-airdrop.com header.s=vfmn6tlz24uxz2gpsrl3gbeeb43wp7bb header.b=V6X4BZBF;
-       dkim=pass header.i=@amazonses.com header.s=ug7nbtf4gccmlpwj322ax3p6ow6yfsug header.b=d3iQ1nQ9;
-       spf=pass (google.com: domain of 010001667ff73875-8edab58f-a807-497b-abb7-1ce775e5c1f7-000000@amazonses.com designates 54.240.8.18 as permitted sender) smtp.mailfrom=010001667ff73875-8edab58f-a807-497b-abb7-1ce775e5c1f7-000000@amazonses.com
-DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
-	s=vfmn6tlz24uxz2gpsrl3gbeeb43wp7bb; d=operation-airdrop.com;
-	t=1539745200;
-	h=Content-Type:MIME-Version:Content-Transfer-Encoding:Subject:From:To:Message-ID:Date;
-	bh=2FA31UkGGYoqFCHMqwv44ysQ7MJqKwWLwAYkig2Pi4w=;
-	b=V6X4BZBFFjUKdgvpfycqOChc+gsgtzZQ4Mu9PCgfB0wnueNiqZnk2AogX3t+S7oq
-	Ttbw4cDW72QBCwp7NDM3NnTR3q2VU940Qsl36GKgamdTQTJAuXRzVlUSMPB9YEZcRiY
-	FkfF/fV/8TMY/1qna+xzySnfb88Uk4oNn4cYCppw=
-DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
-	s=ug7nbtf4gccmlpwj322ax3p6ow6yfsug; d=amazonses.com; t=1539745200;
-	h=Content-Type:MIME-Version:Content-Transfer-Encoding:Subject:From:To:Message-ID:Date:Feedback-ID;
-	bh=2FA31UkGGYoqFCHMqwv44ysQ7MJqKwWLwAYkig2Pi4w=;
-	b=d3iQ1nQ99TIiG7g65/WH0j0pQ6yL+6ajcH6Uux6AZToxPbPFxRMgrL9gGFW4jvAz
-	vUTqMrKw/do9WaUUp5SVW0FXl20AN6WYIPdbAp/Cw4PmBmIFEOO2PR4kVzVx+/xgWiF
-	Lk5euW2QGfvraG92YKdaKWaP8jdM8A03+WGeLMlI=
 Content-Type: text/html; charset="us-ascii"
+
 MIME-Version: 1.0
+
 Content-Transfer-Encoding: 7bit
+
 Subject: Operation Airdrop: Last Day to Fly in Florida!
+
 From: contact@operation-airdrop.com
+
 To: opairdrop@gmail.com
+
 Message-ID: <010001667ff73875-8edab58f-a807-497b-abb7-1ce775e5c1f7-000000@email.amazonses.com>
+
 Date: Wed, 17 Oct 2018 03:00:00 +0000
+
 X-SES-Outgoing: 2018.10.17-54.240.8.18
+
 Feedback-ID: 1.us-east-1.UebGVrzLgwK11T2aR/nmN7Wfn/7e0hI9mxl9ahOpfbs=:AmazonSES
 
 <p>Good evening Robert,</p>
