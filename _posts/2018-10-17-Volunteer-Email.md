@@ -4,25 +4,16 @@ title: Non Profit Volunteer Email
 tags: Email
 ---
 
-Content-Type: text/html; charset="us-ascii"
-
-MIME-Version: 1.0
-
-Content-Transfer-Encoding: 7bit
-
-Subject: Operation Airdrop: Last Day to Fly in Florida!
-
-From: contact@operation-airdrop.com
-
-To: opairdrop@gmail.com
-
-Message-ID: <010001667ff73875-8edab58f-a807-497b-abb7-1ce775e5c1f7-000000@email.amazonses.com>
-
-Date: Wed, 17 Oct 2018 03:00:00 +0000
-
-X-SES-Outgoing: 2018.10.17-54.240.8.18
-
-Feedback-ID: 1.us-east-1.UebGVrzLgwK11T2aR/nmN7Wfn/7e0hI9mxl9ahOpfbs=:AmazonSES
+Content-Type: text/html; charset="us-ascii"<br>
+MIME-Version: 1.0<br>
+Content-Transfer-Encoding: 7bit<br>
+Subject: Operation Airdrop: Last Day to Fly in Florida!<br>
+From: contact@operation-airdrop.com<br>
+To: opairdrop@gmail.com<br>
+Message-ID: <010001667ff73875-8edab58f-a807-497b-abb7-1ce775e5c1f7-000000@email.amazonses.com><br>
+Date: Wed, 17 Oct 2018 03:00:00 +0000<br>
+X-SES-Outgoing: 2018.10.17-54.240.8.18<br>
+Feedback-ID: 1.us-east-1.UebGVrzLgwK11T2aR/nmN7Wfn/7e0hI9mxl9ahOpfbs=:AmazonSES<br>
 
 <p>Good evening Robert,</p>
 <p>Five cities, 14 airplanes, 20 flights, and 11,585 pounds were moved today.  </p>
