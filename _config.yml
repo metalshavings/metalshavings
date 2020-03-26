@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Metal Shavings
 tagline:          Blog
-description:      This was a personal blog about my CNC hobby in 2015, and now includes writing samples as well.
+description:      A CNC blog turned repository for writing samples.
 url:              https://metalshavings.github.io
 baseurl:          /
 
