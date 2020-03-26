@@ -2,9 +2,7 @@
 layout: page
 title: About Me
 ---
-<p class="message">
-Writing samples, over the past few years
-</p>
+
 
 My name is Neal, and I’m an airplane pilot, English Literature grad, and former IT specialist who lives in the Dallas, Texas area.  
 
